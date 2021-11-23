@@ -6,7 +6,7 @@ lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 # Pagination
-paginate: 1
+paginate: 5
 # Layout
 
 show_excerpts: true        # show article excerpts on the home page
@@ -30,6 +30,3 @@ comments:
 
 plugins:
  - jekyll-feed
-
-# Footer `powered-by` and `theme-info` copyright
-copyright: true
