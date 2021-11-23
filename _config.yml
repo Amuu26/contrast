@@ -1,8 +1,8 @@
-title: "Blog Title"
-author: "Blog Author"
+title: "Amuu"
+author: "Samiha Tahsin"
 description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
 permalink: /:title/
-lang: "en"
+lang: "bn"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
