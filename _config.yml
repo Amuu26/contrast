@@ -5,6 +5,7 @@ permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
+# Pagination
 paginate: 1
 # Layout
 
@@ -29,3 +30,6 @@ comments:
 
 plugins:
  - jekyll-feed
+
+# Footer `powered-by` and `theme-info` copyright
+copyright: true
